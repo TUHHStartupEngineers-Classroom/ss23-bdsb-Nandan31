@@ -18,7 +18,7 @@
     "href": "content/01_journal/04_data_visualization.html",
     "title": "Data Visualization",
     "section": "",
-    "text": "Note\n\n\n\nYou can delete everything in here and start fresh."
+    "text": "Note\n\n\n\nYou can delete everything in here and start fresh.\n#Load Libraries\n#Map the time course of the cumulative Covid-19 cases!\n#Filter the data\n#Create the line plot with the cumulative cases over time"
   },
   {
     "objectID": "content/01_journal/01_tidyverse.html",
@@ -61,5 +61,12 @@
     "title": "My Lab Journal",
     "section": "How to use",
     "text": "How to use\n\nAccept the assignment and get your own github repo.\nBlog/journal what you are doing in R, by editing the .qmd files.\nSee the links page for lots of helpful links on learning R.\nChange everything to make it your own.\nMake sure to render you website everytime before you want to upload changes"
+  },
+  {
+    "objectID": "content/01_journal/04_data_visualization.html#visualize-the-distribution-of-the-mortality-rate-deaths-population",
+    "href": "content/01_journal/04_data_visualization.html#visualize-the-distribution-of-the-mortality-rate-deaths-population",
+    "title": "Data Visualization",
+    "section": "0.1 Visualize the distribution of the mortality rate (deaths / population)",
+    "text": "0.1 Visualize the distribution of the mortality rate (deaths / population)"
   }
 ]
